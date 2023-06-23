@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @lcteixeiracoelho
+- 👀 I’m interested in Photogrammetry, Remote Sensing and Digital Image Processing
+- 🌱 I’m currently learning Deep Learning and Geoprocessing tools with Python.
+- 💞️ I’m looking to collaborate on sofware development in those fields.
+- 📫 How to reach me: teixeiracoelho.com
